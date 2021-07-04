@@ -35,7 +35,7 @@ I made it a cool and simply color scheme, easy to read code under low-light cond
 Go to `Preferences -> Color Scheme -> User` and select the `Nosferatu Color Scheme` desired flavor.
 
 
-##Screenshots
+## Screenshots
 
 [PHP example](https://github.com/avantiz/Nosferatu/blob/main/Nosferatu%20PHP%20Example.png)
 
