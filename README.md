@@ -8,14 +8,19 @@
 ## _"Do you have plans in make a light version of this theme?"_
 No, Nosferatu dies in light.
 
-Jokes aside, this a personal, uncommitted project: i simply was bored and tired with all dark color schemes stuff in the market and one night i decided build one, inspired in ExpressionEngine CMS colors, my credit card from Nubank and my computer desktop setup purple colors (NZXT H510i).
+Jokes aside, this a personal, uncommitted project: i simply was bored and tired with all dark color schemes stuff in the market and one night i decided build one, inspired in [ExpressionEngine](https://expressionengine.com) CMS colors, my credit card from [Nubank](https://nubank.com.br) and my computer desktop [NZXT H510i](https://nzxt.com/product/h510i) purple colors.
 
-I made it a nice color scheme, easy to read code under low-light conditions and for tired eyes - and i hope with you like it.
+I made it a cool and simply color scheme, easy to read code under low-light conditions and for tired eyes - and i hope with you like it.
 
 ## Credits
 
 - Nosferatu is a project created by [Fabio Marchi](https://twitter.com/fabiomarchi). 
-- Sublime text build on top of Dracula using @azi's tmtheme editor
+- Sublime text build on top of Dracula using [@aziz's tmtheme editor](http://tmtheme-editor.herokuapp.com/).
+
+## License
+## License
+
+[MIT License](./LICENSE) © Nosferatu Theme
 
 
 
