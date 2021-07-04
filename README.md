@@ -18,7 +18,6 @@ I made it a cool and simply color scheme, easy to read code under low-light cond
 - Sublime text build on top of Dracula using [@aziz's tmtheme editor](http://tmtheme-editor.herokuapp.com/).
 
 ## License
-## License
 
 [MIT License](./LICENSE) © Nosferatu Theme
 
