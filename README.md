@@ -21,6 +21,15 @@ I made it a cool and simply color scheme, easy to read code under low-light cond
 
 [MIT License](./LICENSE) © Nosferatu Theme
 
+## Install
 
+### Install manually
 
- 
+1.  Download using the [GitHub .zip download](https://github.com/avantiz/Nosferatu/archive/master.zip) option
+2.  Unzip the files and rename the folder to `Nosferatu Color Scheme`
+3.  Find your `Packages` directory using the menu item `Preferences -> Browse Packages...`
+4.  Copy the folder into your Sublime Text `Packages` directory
+
+#### Activating theme
+
+Go to `Preferences -> Color Scheme -> User` and select the `Nosferatu Color Scheme` desired flavor.
