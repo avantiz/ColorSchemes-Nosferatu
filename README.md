@@ -37,6 +37,7 @@ Go to `Preferences -> Color Scheme -> User` and select the `Nosferatu Color Sche
 ## Donations
 > Do you want to support this project for more themes, ports and variations?
 
-paypal: fabiomarchi@gmail.com
-pix (brazilian users): faniomarchi@gmail.com
+paypal: fabiomarchi@gmail.com 
+
+pix (brazilian users): fabiomarchi@gmail.com
 
