@@ -33,3 +33,10 @@ I made it a cool and simply color scheme, easy to read code under low-light cond
 #### Activating theme
 
 Go to `Preferences -> Color Scheme -> User` and select the `Nosferatu Color Scheme` desired flavor.
+
+## Donations
+> Do you want to support this project for more themes, ports and variations?
+
+paypal: fabiomarchi@gmail.com
+pix (brazilian users): faniomarchi@gmail.com
+
