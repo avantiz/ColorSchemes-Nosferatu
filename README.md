@@ -34,10 +34,25 @@ I made it a cool and simply color scheme, easy to read code under low-light cond
 
 Go to `Preferences -> Color Scheme -> User` and select the `Nosferatu Color Scheme` desired flavor.
 
+
+##Screenshots
+
+[PHP example](https://github.com/avantiz/Nosferatu/blob/main/Nosferatu%20PHP%20Example.png)
+
+[HTML example](https://github.com/avantiz/Nosferatu/blob/main/Nosferatu%20HTML%20example.png)
+
+[Python example](https://github.com/avantiz/Nosferatu/blob/main/Nosferatu%20Python%20Example.png)
+
+[CSS example](https://github.com/avantiz/Nosferatu/blob/main/Nosferatu%20CSS%20Example.png)
+
+[Color Scheme](https://github.com/avantiz/Nosferatu/blob/main/Nosferatu%20Color%20Scheme.png)
+
+
 ## Donations
 > Do you want to support this project for more themes, ports and variations?
 
-paypal: fabiomarchi@gmail.com 
+paypal: fabiomarchi@gmail.com
+pix (brazilian users): faniomarchi@gmail.com
 
-pix (brazilian users): fabiomarchi@gmail.com
 
+ 
